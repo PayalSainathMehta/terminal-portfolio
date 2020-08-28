@@ -1,2 +1,2 @@
 # payalsainathmehta.github.io/terminal-portfolio
-Terminal based portfolio website for CodeNerve
+Terminal based portfolio website for Payal
