@@ -2,7 +2,7 @@
 <span id="a">payal@mehta</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->PayalMehta.txt<br/><br/>
 Something that I personally believe in, "<span id="k">A new error is progress</span>". <!-- sjkfhskjf -->
 
-Hey There! This is all about me below in my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey There! This is all about me below.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am an inquisitive engineer with an eagerness to learn. I have a sound knowledge of Java and Python and am in love with the idea of being able to create my own solutions to different problems.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York graduating, December 2020 and looking for exciting full-time Opportunities in the Software Development space.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
