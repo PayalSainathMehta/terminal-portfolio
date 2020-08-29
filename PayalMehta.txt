@@ -6,7 +6,7 @@ Hey There! This is all about me below.<!-- laglaglaglaglaglaglaglaglaglaglaglag 
 <p>I am an inquisitive engineer with an eagerness to learn. I have a sound knowledge of Java and Python and am in love with the idea of being able to create my own solutions to different problems.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York graduating, December 2020 and looking for exciting full-time Opportunities in the Software Development space.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-I interned with Amazon on their Real time bidding - Ad search platform, Cornerstone this Summer and built a powerful command-line tool backed by a web portal to provide a real-time view of critical data of the AdSearch engine's state and executions that are helped speed up day-to-day tasks by 60% on an average for the Cornerstone team members.
+I interned with Amazon on their Real time bidding - Ad search platform, Cornerstone this Summer and built a powerful command-line tool backed by a web portal to provide a real-time view of critical data of the AdSearch engine's state and executions that are helped speed up day-to-day tasks by 60% on an average for the Cornerstone team members.<br />
 Tech Stack: Java, Javascript, React js, Ruby, AWS(VPC, API Gateway, S3, Lambda), Docker, Allegiance, Mockito
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --> </p>
 <h3>My Past Experience:- </h3>
@@ -15,7 +15,7 @@ Tech Stack: Java, Javascript, React js, Ruby, AWS(VPC, API Gateway, S3, Lambda),
 • Built the bank’s payment pre-processing and message routing system which helped accelerate the payment process, increasing the throughput by 55%.<br />
 • Developed multiple enhancements and bug fixes for testing automation framework using JUnit and Arquillian resulting in a drastic decline in production issues, close to 40%.<br />
 • Optimized SQL query, leading to performance optimization bringing down execution time from 5 hours to 25 minutes on the Static Sanctions Screening PR which involved analysing about 3 million Oracle db records - Received Barclays Global Recognition award for excellence.<br />
-• Built a System Integration Catalog consisting of 700 different connections to/from the payment engine leading to a reduction in requirement to workflow mapping time by 45% - Received Barclays SPOT award for entry level individual work in de- signing a high level solution for the bank’s High Value Payments space.
+• Built a System Integration Catalog consisting of 700 different connections to/from the payment engine leading to a reduction in requirement to workflow mapping time by 45% - Received Barclays SPOT award for entry level individual work in de- signing a high level solution for the bank’s High Value Payments space.<br />
 Tech Stack: Core Java, Java EE, Enterprise Java Beans, Jboss 6.0, JUnit, Arquillian
 </p>
 
