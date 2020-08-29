@@ -1,13 +1,38 @@
 <span id="a">payal@mehta</span>:<span id="b">~</span><span id="c">$</span> cd PayalMehta/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">payal@mehta</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->PayalMehta.txt<br/><br/>
-Something I personally say often, "<span id="k">A new error is progress</span>". <!-- sjkfhskjf -->
+Something that I personally believe in, "<span id="k">A new error is progress</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hey There! This is all about me below in my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am an inquisitive engineer with an eagerness to learn. I have a sound knowledge of Java and Python and am in love with the idea of being able to create my own solutions to different problems</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York graduating, December 2020 and looking for exciting full-time Opportunities in the Software Development space.</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p> I interned with Amazon on their Real time bidding - Ad search platform, Cornerstone this Summer and built a powerful command-line tool backed by a web portal to provide a real-time view of critical data of the AdSearch engine's state and executions that are helped speed up day-to-day tasks by 60% on an average for the Cornerstone team members.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<h2>My Past Experience:- </h2>
+<p>I worked as a Software Engineer at Barclays for 3 years from Aug 2016 - June 2019</p>
+<p>
+• Built the bank’s payment pre-processing and message routing system which helped accelerate the payment process, increasing the throughput by 55%. <br />
+• Developed multiple enhancements and bug fixes for testing automation framework using JUnit and Arquillian resulting in a drastic decline in production issues, close to 40%.<br />
+• Optimized SQL query, leading to performance optimization bringing down execution time from 5 hours to 25 minutes on the Static Sanctions Screening PR which involved analysing about 3 million Oracle db records - Received Barclays Global Recognition award for excellence.<br />
+• Built a System Integration Catalog consisting of 700 different connections to/from the payment engine leading to a reduction in requirement to workflow mapping time by 45% - Received Barclays SPOT award for entry level individual work in de- signing a high level solution for the bank’s High Value Payments space.</p>
+To know more here is a link to my LinkedIn profile here<a href="https://www.linkedin.com/in/payal-mehta95/"> LinkedIn</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Now something about the projects I have worked on. <br><br><br> 
+• “Password-less Authentication Model”: Awarded Best Security Hack, The Future of Safety Hack @CEWIT Hackathon 2020. Developed a password less ultrasonic authentication model for data transfer over sound waves.
+<a href="https://devpost.com/software/passwordless-ultrasonic-auth">Link</a> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+• “Low Vision E-reader”: Developed a software to parse chat conversations in websites like Stack overflow to display a directed graph for people with low vision, helping them read better at a lower market cost.
+<br />
+Tech Stack: Python, Flask<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br />
+• “Fetal Heart Rate Diagnosis”: Developing a decision-learning tool which reads health signals from pregnant mothers and their fetus to determine whether C-section is necessary for a delivery. The tool should reduce pregnancy related fatality risks by 43%. <br /> 
+Tech Stack: Python, Flask, Plotly, Postgres, SQL <!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br />
+• “Covid’19 DashBoard”: Built an interactive Dashboard with graphs to assess impact of Novel Coronavirus on America specifi- cally using Modern React Development with React and React Context API for State Management. <br />
+Tech Stack: React, Javascript, CSS, Styled Components v4, D3 js, Lodash : Functional Programming<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br />
+• “Learning Management System”: Created an e-commerce website equipped with a recommendation engine based on Apache Hadoop to generate course recommendations for students to facilitate on-the-go one stop shop for learning. 
+Hosted on Amazon Web Services(AWS). 
+<a href = "https://www.ijcaonline.org/archives/volume140/number10/24627-2016909449">Paper accepted in IJCA</a>
+<br />
+Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<!-- slightdelayhere-->, If you want to get in touch with me, feel free to send me an email at<!-- longlonglongcomment --><a href="psmehta@cs.stonybrook.edu">Email</a>.
 
 <p>Cheers!</p>
