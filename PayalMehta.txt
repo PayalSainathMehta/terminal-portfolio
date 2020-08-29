@@ -31,8 +31,7 @@ Tech Stack: React, Javascript, CSS, Styled Components v4, D3 js, Lodash : Functi
 • “Learning Management System”: Created an e-commerce website equipped with a recommendation engine based on Apache Hadoop to generate course recommendations for students to facilitate on-the-go one stop shop for learning. 
 Hosted on Amazon Web Services(AWS). 
 <a href = "https://www.ijcaonline.org/archives/volume140/number10/24627-2016909449">Paper accepted in IJCA</a>
-Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop</p>
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --> 
+Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop</p><!-- laglaglaglaglaglaglaglaglaglaglaglag --> 
 
 <!-- slightdelayhere-->If you want to get in touch with me, feel free to send me an <a href="psmehta@cs.stonybrook.edu">email</a>. 
 
