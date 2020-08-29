@@ -1,6 +1,6 @@
 <span id="a">payal@mehta</span>:<span id="b">~</span><span id="c">$</span> cd Payal/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">payal@mehta</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->PayalSainathMehta.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+Something I personally say often, "<span id="k">A new error is progress</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
