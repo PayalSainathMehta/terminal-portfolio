@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'PayalSainathMehta.txt';
+Typer.file = 'PayalMehta.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
