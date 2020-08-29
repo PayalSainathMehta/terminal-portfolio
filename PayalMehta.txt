@@ -35,6 +35,6 @@ Hosted on Amazon Web Services(AWS).
 Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<!-- slightdelayhere-->, If you want to get in touch with me, feel free to send me an email at<!-- longlonglongcomment --><a href="psmehta@cs.stonybrook.edu">Email</a>.
+<!-- slightdelayhere-->If you want to get in touch with me, feel free to send me an email at<!-- longlonglongcomment --><a href="psmehta@cs.stonybrook.edu">Email</a>.
 
 <p>Cheers!</p>
