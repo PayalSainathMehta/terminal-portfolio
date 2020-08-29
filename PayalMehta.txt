@@ -3,12 +3,12 @@
 Something that I personally believe in, "<span id="k">A new error is progress</span>". <!-- sjkfhskjf -->
 
 Hey There! This is all about me below in my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am an inquisitive engineer with an eagerness to learn. I have a sound knowledge of Java and Python and am in love with the idea of being able to create my own solutions to different problems</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York graduating, December 2020 and looking for exciting full-time Opportunities in the Software Development space.</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I am an inquisitive engineer with an eagerness to learn. I have a sound knowledge of Java and Python and am in love with the idea of being able to create my own solutions to different problems.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York graduating, December 2020 and looking for exciting full-time Opportunities in the Software Development space.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p> I interned with Amazon on their Real time bidding - Ad search platform, Cornerstone this Summer and built a powerful command-line tool backed by a web portal to provide a real-time view of critical data of the AdSearch engine's state and executions that are helped speed up day-to-day tasks by 60% on an average for the Cornerstone team members.
+I interned with Amazon on their Real time bidding - Ad search platform, Cornerstone this Summer and built a powerful command-line tool backed by a web portal to provide a real-time view of critical data of the AdSearch engine's state and executions that are helped speed up day-to-day tasks by 60% on an average for the Cornerstone team members.
 Tech Stack: Java, Javascript, React js, Ruby, AWS(VPC, API Gateway, S3, Lambda), Docker, Allegiance, Mockito
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --> </p>
 <h2>My Past Experience:- </h2>
 <p>I worked as a Software Engineer at Barclays for 3 years from Aug 2016 - June 2019</p>
 <p>
