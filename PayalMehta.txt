@@ -10,8 +10,8 @@ I interned with Amazon on their Real time bidding - Ad search platform, Cornerst
 Tech Stack: Java, Javascript, React js, Ruby, AWS(VPC, API Gateway, S3, Lambda), Docker, Allegiance, Mockito
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --> </p>
 <h2>My Past Experience:- </h2>
-<p>I worked as a Software Engineer at Barclays for 3 years from Aug 2016 - June 2019</p>
-<p>
+<p>I worked as a Software Engineer at Barclays for 3 years from Aug 2016 - June 2019 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br />
 • Built the bank’s payment pre-processing and message routing system which helped accelerate the payment process, increasing the throughput by 55%.
 <!-- slightdelayhere-->
 • Developed multiple enhancements and bug fixes for testing automation framework using JUnit and Arquillian resulting in a drastic decline in production issues, close to 40%.<!-- slightdelayhere-->
@@ -34,7 +34,7 @@ Tech Stack: React, Javascript, CSS, Styled Components v4, D3 js, Lodash : Functi
 Hosted on Amazon Web Services(AWS). 
 <a href = "https://www.ijcaonline.org/archives/volume140/number10/24627-2016909449">Paper accepted in IJCA</a>
 Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --> </p>
 
 <!-- slightdelayhere-->If you want to get in touch with me, feel free to send me an email at<!-- longlonglongcomment --><a href="psmehta@cs.stonybrook.edu">Email</a>.
 
