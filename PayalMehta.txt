@@ -21,8 +21,7 @@ Tech Stack: Core Java, Java EE, Enterprise Java Beans, Jboss 6.0, JUnit, Arquill
 
 To know more here is a link to my LinkedIn profile<a href="https://www.linkedin.com/in/payal-mehta95/"> LinkedIn</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <h3>Now something about the projects I have worked on.</h3>
-<p>
-• “Password-less Authentication Model”: Awarded Best Security Hack, The Future of Safety Hack @CEWIT Hackathon 2020. Developed a password less ultrasonic authentication model for data transfer over sound waves.<a href="https://devpost.com/software/passwordless-ultrasonic-auth"> Link to more details</a> <!-- slightdelayhere-->
+<p>• “Password-less Authentication Model”: Awarded Best Security Hack, The Future of Safety Hack @CEWIT Hackathon 2020. Developed a password less ultrasonic authentication model for data transfer over sound waves.<a href="https://devpost.com/software/passwordless-ultrasonic-auth"> Link to more details</a> <!-- slightdelayhere-->
 • “Low Vision E-reader”: Developed a software to parse chat conversations in websites like Stack overflow to display a directed graph for people with low vision, helping them read better at a lower market cost.
 Tech Stack: Python, Flask<!-- slightdelayhere--> 
 • “Fetal Heart Rate Diagnosis”: Developing a decision-learning tool which reads health signals from pregnant mothers and their fetus to determine whether C-section is necessary for a delivery. The tool should reduce pregnancy related fatality risks by 43%. 
@@ -32,8 +31,8 @@ Tech Stack: React, Javascript, CSS, Styled Components v4, D3 js, Lodash : Functi
 • “Learning Management System”: Created an e-commerce website equipped with a recommendation engine based on Apache Hadoop to generate course recommendations for students to facilitate on-the-go one stop shop for learning. 
 Hosted on Amazon Web Services(AWS). 
 <a href = "https://www.ijcaonline.org/archives/volume140/number10/24627-2016909449">Paper accepted in IJCA</a>
-Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --> </p>
+Tech Stack: PHP, CodeIgniter, HTML, CSS, Javascript, Hadoop</p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --> 
 
 <!-- slightdelayhere-->If you want to get in touch with me, feel free to send me an <a href="psmehta@cs.stonybrook.edu">email</a>. 
 
